@@ -5,6 +5,6 @@ Predicts the Acceptability of the Car based on Various Features.
 https://carap-ad.onrender.com
 
 # Screenshots
-![N1lhiWcp6t](https://user-images.githubusercontent.com/29508011/221406738-071f0590-fcab-4315-9084-82952f7380fe.png)
+![N1lhiWcp6t](https://user-images.githubusercontent.com/29508011/221406831-586307a7-fe81-4428-bdde-3e9fd367eb5d.png)
 
-![9pJPJ5Txi7](https://user-images.githubusercontent.com/29508011/221406743-9affdff2-49bc-4711-8269-20bc7ebaaaa2.png)
+![9pJPJ5Txi7](https://user-images.githubusercontent.com/29508011/221406845-2da1d529-3439-4750-a426-ced63221ba8f.png)
